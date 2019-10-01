@@ -35,6 +35,8 @@ printf("r = %d\n",r);
 break;
 }
 }
+if(op==t[i])
+{}
 else
 {
 printf("Invalid option\n");
